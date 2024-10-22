@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y9+vXJlnqb0=",
+  "success": true,
+  "projectFilePath": "/Users/cuongpham/development/mqtt/publisher/publisher.csproj",
+  "expectedPackageFiles": [
+    "/Users/cuongpham/.nuget/packages/mqttnet/4.3.7.1207/mqttnet.4.3.7.1207.nupkg.sha512"
+  ],
+  "logs": []
+}
